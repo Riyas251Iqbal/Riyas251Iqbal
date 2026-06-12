@@ -22,42 +22,54 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```python
-class RiyasIqbal:
-    def __init__(self):
-        self.name        = "Riyas Iqbal"
-        self.location    = "Kerala, India 🇮🇳"
-        self.degree      = "MCA — Rajiv Gandhi Institute of Technology, Kottayam"
-        self.email       = "riyasiqbal38@gmail.com"
+**`Riyas Iqbal`** — MCA Graduate · AI & Full-Stack Developer · Kerala, India 🇮🇳
 
-        self.stack = [
-            "Python", "Java", "JavaScript", "C", "C++",
-            "React", "Flask", "Django", "Flutter",
-            "PyTorch", "scikit-learn", "XGBoost", "OpenCV",
-            "SQL", "MongoDB", "Firebase", "SQLite"
-        ]
+| | |
+|:--|:--|
+| 🎓 | MCA · RGIPT Kottayam (APJAKTU) · CGPA **7.80** |
+| 📧 | riyasiqbal38@gmail.com |
+| 🎨 | Freelance Designer · Adobe Ps & Ai · 2021–2024 |
+| 📜 | NPTEL Certified — Joy of Computing using Python |
+| 🗣️ | Malayalam (Native) · English |
+| 🏸 | Badminton · Movies & Series · Graphic Design |
 
-        self.currently_learning = [
-            "FastAPI", "LLMs & RAG Systems",
-            "MLOps", "Cloud (AWS/GCP)"
-        ]
+<br/>
 
-        self.design_tools = ["Adobe Photoshop", "Adobe Illustrator"]
-        self.hobbies      = ["Badminton 🏸", "Movies & Series 🎬", "Graphic Design 🎨"]
+> *"Build things that matter. Keep learning every day."*
 
-    def motto(self):
-        return "Build things that matter. Keep learning every day."
+</td>
+<td valign="top" width="45%" align="right">
 
-me = RiyasIqbal()
-print(me.motto())
-# → Build things that matter. Keep learning every day.
-```
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
----
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frameworks** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**AI / ML** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Currently learning →** FastAPI · LLMs & RAG · MLOps · Cloud (AWS/GCP)
 
 ## 🛠️ Tech Stack
 
