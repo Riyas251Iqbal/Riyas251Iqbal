@@ -19,34 +19,41 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="60%">
 
-```python
-class RiyasIqbal:
-    def __init__(self):
-        self.name         = "Riyas Iqbal"
-        self.location     = "Ernakulam, Kerala, India 🇮🇳"
-        self.degree       = "MCA — Rajiv Gandhi Institute of Technology, Kottayam"
-        self.stack        = ["Python", "Java", "Flask", "React", "Flutter",
-                             "PyTorch", "scikit-learn", "Django", "SQL", "MongoDB"]
-        self.learning     = ["FastAPI", "LLMs & RAG Systems",
-                             "MLOps", "Cloud (AWS/GCP)"]
-        self.design_tools = ["Adobe Photoshop", "Adobe Illustrator"]
-        self.hobbies      = ["Badminton 🏸", "Movies & Series 🎬",
-                             "Graphic Design 🎨", "Caricature Drawing ✏️"]
-        self.languages    = ["Malayalam (Native)", "English"]
+### Hi, I'm Riyas 👋
 
-    def fun_fact(self):
-        return "I blend AI research with creative design — logic meets aesthetics!"
+📍 Ernakulam, Kerala, India &nbsp;|&nbsp; 🎓 MCA Graduate &nbsp;|&nbsp; 💼 Open to Opportunities
 
-    def motto(self):
-        return "Build things that matter. Ship. Learn. Repeat. 🚀"
+I build things that sit at the intersection of **AI and real-world impact** — from stroke detection systems using multimodal deep learning, to accessibility apps for neurodivergent children powered by Google Gemini. When I'm not coding, I'm sketching caricatures or smashing shuttlecocks on the badminton court.
 
-me = RiyasIqbal()
-print(me.motto())
-```
+<br/>
 
-<br clear="right"/>
+🔭 &nbsp;**Currently working on** &nbsp;— AI/ML portfolio projects & job applications  
+🌱 &nbsp;**Currently learning** &nbsp;— FastAPI · LLMs & RAG · MLOps · Cloud (AWS/GCP)  
+🎨 &nbsp;**Creative side** &nbsp;— Logo design · Caricatures · Illustration (Photoshop & Illustrator)  
+💬 &nbsp;**Ask me about** &nbsp;— Python, Flask, React, PyTorch, Flutter  
+⚡ &nbsp;**Fun fact** &nbsp;— I blend AI research with creative design — logic meets aesthetics!
+
+<br/>
+
+> *"Build things that matter. Ship. Learn. Repeat. 🚀"*
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
+
+<br/><br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-riyasiqbal38@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:riyasiqbal38@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Riyas-Iqbal)
+
+</td>
+</tr>
+</table>
 
 ---
 
